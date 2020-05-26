@@ -1,0 +1,2 @@
+# php_webshell
+外部からコマンドを入れられる一番単純なwebshell
